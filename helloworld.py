@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 print('Hello World!!')
-print('Viva Mexico')
-print('Hola Banco Central')
-print('Comprobando el funcionamiento del Banco Central')
-print('Comprobando el funcionamiento de pull!!')
+print('Hola Panama')
+print('Hola Banco General')
+print('Comprobando el funcionamiento del Banco General')
+
